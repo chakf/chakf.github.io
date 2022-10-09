@@ -1,55 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://www.jiangost.xyz/</loc>
-  <lastmod>2022-08-30T11:18:57+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.jiangost.xyz/</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/check-onlei-open-room-record.html</loc>
-  <lastmod>2022-09-15T10:11:57+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.jiangost.xyz/index.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/check-onlei-open.html</loc>
-  <lastmod>2022-09-15T09:10:57+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.jiangost.xyz/about.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/Check-the-open-room-record.html</loc>
-  <lastmod>2022-08-30T10:18:57+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.jiangost.xyz/service.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/service.html</loc>
-  <lastmod>2022-08-20T11:18:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.jiangost.xyz/pricing.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/pricing.html</loc>
-  <lastmod>2022-08-20T11:18:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.jiangost.xyz/contact.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/index.html</loc>
-  <lastmod>2022-08-20T11:18:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.jiangost.xyz/Check-the-open-room-record.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/contact.html</loc>
-  <lastmod>2022-08-20T11:18:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.jiangost.xyz/check-onlei-open.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://www.jiangost.xyz/about.html</loc>
-  <lastmod>2022-08-20T11:18:57+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.jiangost.xyz/check-onlei-open-room-record.html</loc>
+<priority>1.0</priority>
+<changefreq>daily</changefreq>
 </url>
 </urlset>
